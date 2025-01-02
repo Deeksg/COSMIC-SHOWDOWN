@@ -79,8 +79,8 @@
 
 <h2>Screenshot</h2>
 <p>Here is a preview of the game:</p>
-<img src="path/to/your-image.png" alt="Game Screenshot" width="600">
-
+<img src="GS.png" alt="Game Screenshot 1" width="600">
+<img src="GS1.png" alt="Game Screenshot 2" width="600">
 
 <h2>Acknowledgments</h2>
 <ul>
